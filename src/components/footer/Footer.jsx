@@ -8,7 +8,7 @@ export const Footer = () => {
     <>
       <footer className='boxItems'>
         <div className='container flex'>
-          <p>writting...</p>
+          <p>click Home...ホームをクリック...</p>
           <div className='social'>
             <BsFacebook className='icon' />
             <RiInstagramFill className='icon' />

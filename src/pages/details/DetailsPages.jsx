@@ -36,7 +36,7 @@ export const DetailsPages = () => {
                   <AiOutlineDelete />
                 </button>
               </div>
-              <h1>writting...</h1>
+              <h1>click home ...ホームをクリック...</h1>
               <p>{blogs.desc}</p>
               <p>" Blog is a simple yet very effective blogging platform for new bloggers. With a user-friendly interface and flexible features, Code Blog makes creating and managing blogs easy.
                         You can manage your posts, categories and tags with just a few simple taps.
